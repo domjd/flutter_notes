@@ -1,6 +1,6 @@
-# flutter_application_1
+# Flutter Note Taking App
 
-A new Flutter project.
+Practice app for flutter
 
 ## Getting Started
 
